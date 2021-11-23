@@ -1,0 +1,3 @@
+1:"Sanok"
+2:"Zagorz"
+3:"Zachoczewie"
